@@ -1,6 +1,6 @@
-token= NTI4ODg4OTY5NDI1ODQ2Mjcy.Dw6E4A.nzpQu1aKwfBHO7JoGn0zmMrKj54
-owner= 510520286488035339
-prefix= 8
-game= Type 8help
+token= NTMwMDY4MjI1OTUwNjEzNTA2.Dw-tXQ.HyZLJwbNXg8vfJjCMPgew-4Jmbw
+owner= 333140974865874944
+prefix= 4
+game= Type 4help
 stayinchannel=true 
 songinstatus=false 
